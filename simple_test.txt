@@ -1,0 +1,5 @@
+Simple test without external API calls.
+
+QUESTIONS:
+1. What is 2 + 2?
+2. What is 10 * 5?
